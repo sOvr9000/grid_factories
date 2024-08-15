@@ -1,0 +1,6 @@
+
+return {
+    recipeTree = {},
+    calculatedItems = {},
+    processingItems = {},
+}

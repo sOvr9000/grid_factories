@@ -1,0 +1,6 @@
+
+return {
+    prevTileName = {},
+    positions = {},
+    lastTeleported = {},
+}
